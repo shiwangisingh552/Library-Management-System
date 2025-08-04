@@ -31,7 +31,7 @@ Library-Management-System
     (No direct relationship defined with other entities)
 
 
-  Files Included
+ Files Included
 
    Task1(librarymanagementsystem).sql - SQL DDL to create the database of library management system.
 
